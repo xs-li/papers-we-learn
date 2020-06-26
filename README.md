@@ -13,7 +13,7 @@ Papers-We-Learn是围绕计算机领域论文阅读、学习的社区，它旨�
 7. Graphx Unifying Data-Parallel and Graph-Parallel Analytics(Graphx).pdf
 8. PSGraph How Tencent trains extremely large-scale graphs with Spark(PSGraph).pdf
 
-## pattern_matching
+## pattern matching
 收录模式识别相关论文及进展
 1. Frequent pattern mining current status and future directions.pdf
 2. PrefixSpan Mining Sequential Patterns Efficientily by Prefix-Projected Pattern Growth.pdf
