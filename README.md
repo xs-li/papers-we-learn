@@ -15,6 +15,6 @@ Papers-We-Learn是围绕计算机领域论文阅读、学习的社区，它旨�
 
 ## pattern_matching
 收录模式识别
-1.Frequent pattern mining current status and future directions.pdf
-2.PrefixSpan Mining Sequential Patterns Efficientily by Prefix-Projected Pattern Growth.pdf
-3.BIDE Efficient Mining of Frequent Closed Sequences.pdf
+1. Frequent pattern mining current status and future directions.pdf
+2. PrefixSpan Mining Sequential Patterns Efficientily by Prefix-Projected Pattern Growth.pdf
+3. BIDE Efficient Mining of Frequent Closed Sequences.pdf
