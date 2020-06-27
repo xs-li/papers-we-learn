@@ -18,3 +18,11 @@ Papers-We-Learn是围绕计算机领域论文阅读、学习的社区，它旨�
 1. Frequent pattern mining current status and future directions.pdf
 2. PrefixSpan Mining Sequential Patterns Efficientily by Prefix-Projected Pattern Growth.pdf
 3. BIDE Efficient Mining of Frequent Closed Sequences.pdf
+
+
+## graph
+收录图算法相关论文及进展，包括传统图算法、图表示学习及图神经网络
+1. The PageRank Citation Ranking Bringing Order to the Web(Pagerank).pdf
+2. The H-index of a network node and its relation to degree and coreness(kcore hindex).pdf
+3. HyperAnf Approximating the Neighbourhood Function of Very Large Graphs on a Budget(HyperAnf).pdf
+4. Centralities in Large Networks Algorithms and Observations(Closeness).pdf
