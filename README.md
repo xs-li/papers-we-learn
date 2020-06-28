@@ -26,3 +26,8 @@ Papers-We-Learn是围绕计算机领域论文阅读、学习的社区，它旨�
 2. The H-index of a network node and its relation to degree and coreness(kcore hindex).pdf
 3. HyperAnf Approximating the Neighbourhood Function of Very Large Graphs on a Budget(HyperAnf).pdf
 4. Centralities in Large Networks Algorithms and Observations(Closeness).pdf
+5. Graph Convolutional Neural Networks for Web-Scale Recommender Systems(Pinsage).pdf
+6. How Powerful Are Graph Neural Networks(GNN and WL Test).pdf
+7. Inductive Representation Learning On Large Graphs(Graphsage).pdf
+8. Semi-Supervised Classification With Graph Convolutional Networks(GCN).pdf
+9. DeepTrax Embedding Graphs of Financial Transactions(Financial).pdf
