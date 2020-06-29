@@ -47,3 +47,9 @@ Papers-We-Learn主要围绕计算机领域，将经典的学术界或工业界�
 11. Wide & Deep Learning for Recommender Systems(DeepAndWide).pdf
 12. XGBoost ~ A Scalable Tree Boosting System(XGBoost).pdf
 13. Deep & Cross Network for Ad Click Predictions(DCN).pdf
+
+## nlp
+
+自然语言处理相关的算法论文
+
+1. Distributed Representations of Words and Phrases and their Compositionality (Word2Vec).pdf
