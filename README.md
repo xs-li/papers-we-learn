@@ -3,7 +3,7 @@ Papers-We-Learn主要围绕计算机领域，将经典的学术界或工业界�
 如果你已阅读某些论文，可以添加自己的评论和文章链接，欢迎大家加入分享。
 
 ## distributed systems
-收录angel实现分布式参数服务器、以及机器学习框架、图计算框架时借鉴的论文
+收录angel实现分布式参数服务器、以及机器学习框架、图计算框架时借鉴的论文，其中Angel、PSGraph为Angel实现总结的论文
 1. Resilient Distributed Datasets A Fault-Tolerant Abstraction for In-Memory Cluster Computing(Spark).pdf
 2. Parameter Server for Distributed Machine Learning(Parameter Server).pdf
 3. Angel a new large-scale machine learning system(Angel).pdf
